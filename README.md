@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/658318255231860736/953065697892765726/Dollify-959ca7cd-fed9-445a-8f23-534f24dee74c-0_1.png">
-</div>* 
+</div> 
   
    
   ##
