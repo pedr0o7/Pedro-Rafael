@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently intern at CGU as DBA;
 - 🌱 I’m currently learning MySQL, SQL Server, HTML5, CSS, python;
 - 🤔 I’m looking for help with HTML5, CSS, javaScript, c, c++;
-- 📫 How to reach me: linkedin.com/in/pedro-rafael-faria-ferreira;
+
 
 <div align="center">
   <a href="https://github.com/pedr0o7">
@@ -27,11 +27,15 @@ Here are some ideas to get you started:
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Pedro-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pedro-microsoftsqlserver" height="30" width="30" src="https://fashionsista.co/downloadpng/png/20201006/55153-microsoft-sql-alwayson-and-high-availability-new.jpg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Pedro-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/658318255231860736/953082084824584282/Dollify-959ca7cd-fed9-445a-8f23-534f24dee74c-0_1_1.png">
 </div> 
   
