@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working to the CGU how DBA
-- 🌱 I’m currently learning python, javaScript,SQL,html,css,c,c++...
-- 📫 How to reach me: linkedin.com/in/pedro-rafael-faria-ferreira
+- 🔭 I’m currently intern at CGU as DBA;
+- 🌱 I’m currently learning MySQL, SQL Server, HTML5, CSS, python;
+- 🤔 I’m looking for help with HTML5, CSS, javaScript, c, c++;
+- 📫 How to reach me: linkedin.com/in/pedro-rafael-faria-ferreira;
 
 <div align="center">
   <a href="https://github.com/pedr0o7">
