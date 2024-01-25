@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently intern at CGU as DBA;
-- 🌱 I’m currently learning MySQL, SQL Server, HTML5, CSS, python;
-- 🤔 I’m looking for help with HTML5, CSS, javaScript, c, c++;
+- 🔭 I currently work at VETTA DIGITAL, part of the German group SMS GROUP, as a PL/SQL developer;
+- ⚡ I completed an internship at CONTROLADORIA GERAL DA UNIÃO (CGU) as a DBA;
+- 🌱 I'm currently learning MySQL, SQL Server, HTML5, CSS, python;
+- 🤔 I'm looking for help with HTML5, CSS, JavaScript, C, C++;
 
 
 <div align="center">
